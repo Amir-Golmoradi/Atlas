@@ -29,7 +29,7 @@ public interface UserService {
 
     /**
      * Updates the user's password. The service must ensure proper hashing is used
-     * before persisting the User model.
+     * before persisting the User aggregate.
      */
     void updateUserPassword(long userId, String newPassword);
 
