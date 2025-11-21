@@ -1,4 +1,4 @@
-package dev.amirgolmoradi.atlas.identity_context.user.domain.aggregate;
+package dev.amirgolmoradi.atlas.identity_context.user.domain.model;
 
 import dev.amirgolmoradi.atlas.identity_context.user.domain.enums.Role;
 import dev.amirgolmoradi.atlas.identity_context.user.domain.exception.*;
