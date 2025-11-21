@@ -1,7 +1,7 @@
 package dev.amirgolmoradi.atlas.identity_context.user.domain.repository;
 
 
-import dev.amirgolmoradi.atlas.identity_context.user.domain.aggregate.User;
+import dev.amirgolmoradi.atlas.identity_context.user.domain.model.User;
 import dev.amirgolmoradi.atlas.identity_context.user.domain.value_object.Email;
 import dev.amirgolmoradi.atlas.identity_context.user.domain.value_object.FullName;
 import dev.amirgolmoradi.atlas.identity_context.user.domain.value_object.Id;
